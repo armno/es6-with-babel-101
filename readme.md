@@ -9,3 +9,4 @@ Learning ES6 and Babel via [tower-of-babel](https://github.com/yosuke-furukawa/t
 - A module can export `const` and `function`.
 - ES6: `export`, CommonJS: `exports`
 - ES6: `import {} from <PATH>`, CommonJS: `require()`
+- `export default` so importing doesn't require `{}`.
