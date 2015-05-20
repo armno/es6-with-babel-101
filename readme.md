@@ -10,3 +10,5 @@ Learning ES6 and Babel via [tower-of-babel](https://github.com/yosuke-furukawa/t
 - ES6: `export`, CommonJS: `exports`
 - ES6: `import {} from <PATH>`, CommonJS: `require()`
 - `export default` so importing doesn't require `{}`.
+- `let` and `const` are simple but pretty useful I think.
+- computed property is kinda cool. not sure if i will be using it that much though.
