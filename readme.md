@@ -13,3 +13,5 @@ Learning ES6 and Babel via [tower-of-babel](https://github.com/yosuke-furukawa/t
 - `let` and `const` are simple but pretty useful I think.
 - Computed property is kinda cool. Not sure if I will be using it that much though.
 - I don't think I understand Iteratable really well. `for..of` is OK.
+- Generator: feeling much better than Iteratable! At least generators don't require confusing boilerplate code.
+- `function*(){}()` <- there are parentheses after function declaration to make it work.
