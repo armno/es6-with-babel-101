@@ -19,3 +19,5 @@ Learning ES6 and Babel via [tower-of-babel](https://github.com/yosuke-furukawa/t
 - Destructure: from the tutorial, I quite understand what destructure is. but the exercise re-confused me. To me, destructure is useful for swapping variables.
 - Destructure chapter should be before Iteratables and Generators. Seeing a destructure usage in chapter 8 also confused me.
 - Arrow functions - can be super short yet not that easy to understand. (or i just need more time with them actually)
+- For the first time I use `Array.prototype.reduce()` actually.
+- Spread call is kinda cool too. Combining with `Array.prototype.reduce()` can simplify the function quite well.
